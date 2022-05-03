@@ -1,5 +1,3 @@
-### I am an academic vascular surgeon.
-
 ### Vascular Surgery Resources
 
 [Devices](https://justincchoi.github.io/Devices/)
